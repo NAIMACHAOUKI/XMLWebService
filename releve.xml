@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve rib="011112222333344445555666">
+    <operation>
+        <date>2023-01-15T00:33:25.714+01:00</date>
+        <description>Vers Espèce</description>
+        <montant>9000.0</montant>
+        <type>CREDIT</type>
+    </operation>
+    <operation>
+        <date>2023-01-15T00:33:25.714+01:00</date>
+        <description>Chèque guichet</description>
+        <montant>34000.0</montant>
+        <type>CREDIT</type>
+    </operation>
+    <operation>
+        <date>2023-01-15T00:33:25.714+01:00</date>
+        <description>Prélèvement assurance</description>
+        <montant>120.0</montant>
+        <type>CREDIT</type>
+    </operation>
+    <dateReleve>2023-01-15T00:33:25.713+01:00</dateReleve>
+    <solde>14500.0</solde>
+</releve>
